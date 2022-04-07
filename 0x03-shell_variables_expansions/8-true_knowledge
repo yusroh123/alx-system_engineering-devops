@@ -1,2 +1,2 @@
 #!/bin/bash
-echo (($TRUEKNOWLEDGE + $INCREASE))
+echo (($TRUEKNOWLEDGE + $INCREASE)) 
