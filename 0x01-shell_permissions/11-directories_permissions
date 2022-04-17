@@ -1,1 +1,2 @@
 #!/bin/bash
+sudo find . -type d | chmod ugo+x
